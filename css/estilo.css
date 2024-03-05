@@ -1,0 +1,109 @@
+#contenedor
+{
+    width: 600px;
+    height: 2000px;
+    background-color: midnightblue;
+    
+}
+#cabeza
+{
+    width: 200px;
+    height: 200px;
+    background-color: darkgoldenrod;
+    position: relative;
+    left: 200px;
+    top: 150px;
+    border-radius: 90px;
+    
+}
+#ojosizq
+{
+    width: 50px;
+    height: 50px;
+    background-color:white;
+    position: relative;
+    left: 125px;
+    top: 90px;
+    border-radius: 100px;
+    
+}
+#ojoder
+{
+    width: 50px;
+    height: 50px;
+    background-color:white;
+    position: relative;
+    left: 20px;
+    top: 40px;
+    border-radius: 100px;
+    
+}
+
+#brilloiz
+{
+    width: 30px;
+    height: 30px;
+    background-color:black;
+    position: relative;
+    left:  10px;
+    top: 25px;
+    border-radius: 100px;
+    
+}
+#brilloder
+{
+    width: 30px;
+    height: 30px;
+    background-color:black;
+    position: relative;
+    left: 10px;
+    top: 25px;
+    border-radius: 100px;
+    
+}
+#nariz
+{
+    width: 40px;
+    height: 25px;
+    background-color:black;
+    position: relative;
+    left: 80px;
+    top: 35px;
+    border-radius: 100px;
+    
+}
+#boca
+{
+    width: 40px;
+    height: 5px;
+    background-color:black;
+    position: relative;
+    left: 80px;
+    top: 50px;
+    border-radius: 100px;
+    
+}
+
+
+#orejai
+{
+    width: 50px;
+    height: 50px;
+    background-color: darkgoldenrod;
+    position: relative;
+    left: 125px;
+    top: 90px;
+    border-radius: 100px;
+    
+}
+#orejad
+{
+    width: 50px;
+    height: 50px;
+    background-color :darkgoldenrod;;
+    position: relative;
+    left: 125px;
+    top: 90px;
+    border-radius: 100px;
+    
+}
